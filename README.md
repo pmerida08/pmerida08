@@ -1,25 +1,36 @@
-## Hi there 👋
+# Hi there 👋
 
-My name is Pablo, I'm a web developer interested in all things about how to set a good web, either through the frontend or the backend. In general, I prefer frontend but I don't mind to take both sides.
+Welcome to my GitHub! I'm **Pablo**, a passionate web developer who loves building interactive and efficient web applications. I specialize in both **frontend** and **backend** development, with a special fondness for creating beautiful and functional user interfaces. 🌐
 
-- 🔭 I’m currently working on [client-apiAyunt](https://github.com/pmerida08/client-apiAyuntamiento), building a client for this [API](https://github.com/pmerida08/apiAyuntamiento).
-  - I'll leave you a [game](https://pmerida08.github.io/wordle/) here...😉
-- 🌱 I’m currently learning Angular, Astro, etc.
-- 👯 I’m looking to collaborate on some projects! If you want to have an ambitious and efficient programmer
-  - Contact me to pm3r1da@gmail.com
+## 🚀 Current Projects
+- 🔭 **[client-apiAyunt](https://github.com/pmerida08/client-apiAyuntamiento)**  
+  I’m currently working on a client for the [API](https://github.com/pmerida08/apiAyuntamiento), integrating various features and improving its usability. Check out my work and feel free to contribute!  
+  **🎮 Fun fact**: I’ve also created a game for you to enjoy: [Wordle Game](https://pmerida08.github.io/wordle/) 😉. Play and challenge yourself!
 
+## 🌱 What I'm Learning
+I'm constantly evolving and always learning new things. Right now, I'm diving deep into:
+- **Angular**
+- **Astro**
+- More backend technologies...
 
-<!--
-**pmerida08/pmerida08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🤝 Let's Collaborate!
+I’m always open to new collaborations and love working on ambitious projects that push the boundaries of web development. If you're looking for a creative and efficient developer, don't hesitate to get in touch!  
+**📧 Contact me**: [pm3r1da@gmail.com](mailto:pm3r1da@gmail.com)
 
-Here are some ideas to get you started:
+## 🧑‍💻 Skills & Tools
+- **Frontend**: HTML, CSS, JavaScript, React, Angular, Astro
+- **Backend**: Node.js, Express, MongoDB, SQL
+- **Version Control**: Git, GitHub
+- **Design**: Figma, Adobe XD
+- **Tools**: VS Code, Webpack, Docker, etc.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🏆 Achievements
+- 💡 Built several responsive web applications for diverse businesses.
+- 🛠️ Contributed to open-source projects like [client-apiAyunt](https://github.com/pmerida08/client-apiAyuntamiento).
+
+## 🌍 Find Me Elsewhere
+- [LinkedIn](https://www.linkedin.com/in/pablo-merida)
+- [Twitter](https://twitter.com/pmerida08)
+- [Personal Website](https://pablomerida.dev)
+
+Thanks for stopping by! Feel free to explore my projects and leave a star if you find something interesting. ⭐
