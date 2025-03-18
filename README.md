@@ -10,6 +10,7 @@ Welcome to my GitHub! I'm **Pablo**, a passionate web developer who loves buildi
 ## 🌱 What I'm Learning
 I'm constantly evolving and always learning new things. Right now, I'm diving deep into:
 - **Angular**
+- **TailwindCSS**
 - **Astro**
 - **Python**
 - More backend technologies...
