@@ -11,6 +11,7 @@ Welcome to my GitHub! I'm **Pablo**, a passionate web developer who loves buildi
 I'm constantly evolving and always learning new things. Right now, I'm diving deep into:
 - **Angular**
 - **Astro**
+- **Python**
 - More backend technologies...
 
 ## 🤝 Let's Collaborate!
@@ -18,11 +19,11 @@ I’m always open to new collaborations and love working on ambitious projects t
 **📧 Contact me**: [pm3r1da@gmail.com](mailto:pm3r1da@gmail.com)
 
 ## 🧑‍💻 Skills & Tools
-- **Frontend**: HTML, CSS, JavaScript, React, Angular, Astro
-- **Backend**: Node.js, Express, MongoDB, SQL
+- **Frontend**: HTML, CSS, JavaScript, React, Angular, React
+- **Backend**: Node.js, SQL, PHP, Java, Python
 - **Version Control**: Git, GitHub
-- **Design**: Figma, Adobe XD
-- **Tools**: VS Code, Webpack, Docker, etc.
+- **Design**: Figma
+- **Tools**: VS Code
 
 ## 🏆 Achievements
 - 💡 Built several responsive web applications for diverse businesses.
@@ -30,7 +31,6 @@ I’m always open to new collaborations and love working on ambitious projects t
 
 ## 🌍 Find Me Elsewhere
 - [LinkedIn](https://www.linkedin.com/in/pablo-merida)
-- [Twitter](https://twitter.com/pmerida08)
-- [Personal Website](https://pablomerida.dev)
+<!-- - [Personal Website](https://pablomerida.dev) -->
 
 Thanks for stopping by! Feel free to explore my projects and leave a star if you find something interesting. ⭐
