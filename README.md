@@ -32,6 +32,7 @@ I’m always open to new collaborations and love working on ambitious projects t
 
 ## 🌍 Find Me Elsewhere
 - [LinkedIn](https://www.linkedin.com/in/pablo-merida)
+
 <!-- - [Personal Website](https://pablomerida.dev) -->
 
 Thanks for stopping by! Feel free to explore my projects and leave a star if you find something interesting. ⭐
