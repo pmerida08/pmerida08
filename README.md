@@ -1,8 +1,11 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+My name is Pablo, I'm a web developer interested in all things about how to set a good web, either through the frontend or the backend. In general, I prefer frontend but I don't mind to take both sides.
+
+- 🔭 I’m currently working on [client-apiAyunt](https://github.com/pmerida08/client-apiAyuntamiento), building a client for this [API](https://github.com/pmerida08/apiAyuntamiento).
+- 🌱 I’m currently learning Angular, Astro, etc.
+- 👯 I’m looking to collaborate on some projects! If you want to have an ambitious and efficient programmer
+  - Contact me to pm3r1da@gmail.com
 
 
 <!--
