@@ -3,12 +3,13 @@
 Welcome to my GitHub! I'm **Pablo**, a passionate web developer who loves building interactive and efficient web applications. I specialize in both **frontend** and **backend** development, with a special fondness for creating beautiful and functional user interfaces. 🌐
 
 ## 🚀 Current Projects
-- 🔭 **[client-apiAyunt](https://github.com/pmerida08/client-apiAyuntamiento)**  
-  I’m currently working on a client for the [API](https://github.com/pmerida08/apiAyuntamiento), integrating various features and improving its usability. Check out my work and feel free to contribute!  
+- 🔭 **[MyHandStats](https://github.com/pmerida08/myHandStats)**
+  I’m currently working on **[MyHandStats](https://myhandstats.netlify.app/)**, integrating various features and improving its usability. Check out my work and feel free to contribute!  
   **🎮 Fun fact**: I’ve also created a game for you to enjoy: [Wordle Game](https://pmerida08.github.io/wordle/) 😉. Play and challenge yourself!
 
 ## 🌱 What I'm Learning
 I'm constantly evolving and always learning new things. Right now, I'm diving deep into:
+- **Laravel**
 - **Angular**
 - **TailwindCSS**
 - **Astro**
@@ -27,6 +28,7 @@ I’m always open to new collaborations and love working on ambitious projects t
 - **Tools**: VS Code
 
 ## 🏆 Achievements
+- 🧠 Participated on Reboots (atmira) 2024 with [SmartEats](https://github.com/pmerida08/smartEats) - AI generator for food dishes and more things...
 - 💡 Built several responsive web applications for diverse businesses.
 - 🛠️ Contributed to open-source projects like [client-apiAyunt](https://github.com/pmerida08/client-apiAyuntamiento).
 
