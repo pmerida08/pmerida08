@@ -22,7 +22,7 @@ I’m always open to new collaborations and love working on ambitious projects t
 
 ## 🧑‍💻 Skills & Tools
 - **Frontend**: HTML, CSS, JavaScript, React, Angular, React
-- **Backend**: Node.js, SQL, PHP, Java, Python
+- **Backend**: Node.js, SQL, PHP, Java, Python, Laravel
 - **Version Control**: Git, GitHub
 - **Design**: Figma
 - **Tools**: VS Code
