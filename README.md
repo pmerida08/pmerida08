@@ -4,8 +4,9 @@ Welcome to my GitHub! I'm **Pablo**, a passionate web developer who loves buildi
 
 ## 🚀 Current Projects
 - 🔭 **[MyHandStats](https://github.com/pmerida08/myHandStats)**
-  I’m currently working on **[MyHandStats](https://myhandstats.netlify.app/)**, integrating various features and improving its usability. Check out my work and feel free to contribute!  
-  **🎮 Fun fact**: I’ve also created a game for you to enjoy: [Wordle Game](https://pmerida08.github.io/wordle/) 😉. Play and challenge yourself!
+
+I’m currently working on **[MyHandStats](https://myhandstats.netlify.app/)**, integrating various features and improving its usability. Check out my work and feel free to contribute!  
+**🎮 Fun fact**: I’ve also created a game for you to enjoy: [Wordle Game](https://pmerida08.github.io/wordle/) 😉. Play and challenge yourself!
 
 ## 🌱 What I'm Learning
 I'm constantly evolving and always learning new things. Right now, I'm diving deep into:
