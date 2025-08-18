@@ -31,7 +31,6 @@ I’m always open to new collaborations and love working on ambitious projects t
 ## 🏆 Achievements
 - 🧠 Participated on Reboots (atmira) 2024 with [SmartEats](https://github.com/pmerida08/smartEats) - AI generator for food dishes and more things...
 - 💡 Built several responsive web applications for diverse businesses.
-- 🛠️ Contributed to open-source projects like [client-apiAyunt](https://github.com/pmerida08/client-apiAyuntamiento).
 
 ## 🌍 Find Me Elsewhere
 - [LinkedIn](https://www.linkedin.com/in/pablo-merida)
