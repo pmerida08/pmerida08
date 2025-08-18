@@ -4,13 +4,14 @@ Welcome to my GitHub! I'm **Pablo**, a passionate web developer who loves buildi
 
 ## 🚀 Current Projects
 - 🔭 **[MyHandStats](https://github.com/pmerida08/myHandStats)**
+- ❄️ **[ColdStorage](https://github.com/pmerida08/coldStorage)**
 
-I’m currently working on **[MyHandStats](https://myhandstats.netlify.app/)**, integrating various features and improving its usability. Check out my work and feel free to contribute!
+I’m currently working on **[ColdStorage](https://github.com/pmerida08/coldStorage)**, and learning mobile development with React Native with this app. Check out my work and feel free to contribute!
 
 ## 🌱 What I'm Learning
 I'm constantly evolving and always learning new things. Right now, I'm diving deep into:
 - **Laravel**
-- **Angular**
+- **React Native**
 - **TailwindCSS**
 - **Astro**
 - **Python**
@@ -21,8 +22,8 @@ I’m always open to new collaborations and love working on ambitious projects t
 **📧 Contact me**: [pm3r1da@gmail.com](mailto:pm3r1da@gmail.com)
 
 ## 🧑‍💻 Skills & Tools
-- **Frontend**: HTML, CSS, JavaScript, React, Angular, React
-- **Backend**: Node.js, SQL, PHP, Java, Python, Laravel
+- **Frontend**: HTML, CSS, JavaScript, React, Angular, React Native
+- **Backend**: SQL, PHP, Java, Python, Laravel
 - **Version Control**: Git, GitHub
 - **Design**: Figma
 - **Tools**: VS Code
