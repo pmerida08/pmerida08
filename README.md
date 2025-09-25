@@ -11,8 +11,9 @@ I’m currently working on **[ColdStorage](https://github.com/pmerida08/coldStor
 <table width="100%">
     <tr>
         <td width="50%" valign="top">
-            <h2>🌱 What I'm Learning</h2>
+            <h2  align="center">🌱 What I'm Learning</h2>
             I'm constantly evolving and always learning new things. Right now, I'm diving deep into:
+            <br>
             <ul>
                 <li><strong>Laravel</strong></li>
                 <li><strong>React Native</strong></li>
@@ -21,7 +22,7 @@ I’m currently working on **[ColdStorage](https://github.com/pmerida08/coldStor
             </ul>
         </td>
         <td width="50%" valign="top" align="center">
-            <h2>🧑‍💻 Skills & Tools</h2>
+            <h2 >🧑‍💻 Skills & Tools</h2>
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pmerida08&theme=dark&layout=compact&500px" alt="Top Langs" />
         </td>
     </tr>
