@@ -3,10 +3,8 @@
 Welcome to my GitHub! I'm **Pablo**, a passionate web developer who loves building interactive and efficient web applications. I specialize in both **frontend** and **backend** development, with a special fondness for creating beautiful and functional user interfaces. 🌐
 
 ## 🚀 Current Projects
+- 🫙 **[FoodStorage](https://github.com/pmerida08/foodStorage)**
 - 🔭 **[MyHandStats](https://github.com/pmerida08/myHandStats)**
-- ❄️ **[ColdStorage](https://github.com/pmerida08/coldStorage)**
-
-I’m currently working on **[ColdStorage](https://github.com/pmerida08/coldStorage)**, and learning mobile development with React Native with this app. Check out my work and feel free to contribute!
 
 <table width="100%">
     <tr>
