@@ -1,43 +1,62 @@
-# Hi there 👋
+# Pablo Mérida Velasco
 
-Welcome to my GitHub! I'm **Pablo**, a passionate web developer who loves building interactive and efficient web applications. I specialize in both **frontend** and **backend** development, with a special fondness for creating beautiful and functional user interfaces. 🌐
+**IA Automation Specialist · Full-Stack Developer**
 
-## 🚀 Current Projects
-- 🫙 **[FoodStorage](https://github.com/pmerida08/foodStorage)**
-- 🔭 **[MyHandStats](https://github.com/pmerida08/myHandStats)**
+Diseño y construyo sistemas de automatización reales apoyados en inteligencia artificial.
+Integro modelos de lenguaje, APIs y herramientas como n8n para convertir procesos manuales
+en flujos escalables y autónomos. Base técnica full-stack con foco en ejecución práctica.
 
-<table width="100%">
-    <tr>
-        <td width="50%" valign="top">
-            <h2  align="center">🌱 What I'm Learning</h2>
-            I'm constantly evolving and always learning new things. Right now, I'm diving deep into:
-            <br>
-            <ul>
-                <li><strong>Laravel</strong></li>
-                <li><strong>React Native</strong></li>
-                <li><strong>Angular</strong></li>
-                <li><strong>Python</strong></li>
-            </ul>
-        </td>
-        <td width="50%" valign="top" align="center">
-            <h2 >🧑‍💻 Skills & Tools</h2>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pmerida08&theme=dark&layout=compact&500px" alt="Top Langs" />
-        </td>
-    </tr>
-</table>
+📍 Montilla, Córdoba · 📬 pablomerida03@gmail.com · [LinkedIn](https://www.linkedin.com/in/pablo-merida-velasco)
 
+---
 
-## 🤝 Let's Collaborate!
-I’m always open to new collaborations and love working on ambitious projects that push the boundaries of web development. If you're looking for a creative and efficient developer, don't hesitate to get in touch!  
-**📧 Contact me**: [pm3r1da@gmail.com](mailto:pm3r1da@gmail.com)
+## Stack principal
 
-## 🏆 Achievements
-- 🧠 Participated on Reboots (atmira) 2024 with [SmartEats](https://github.com/pmerida08/smartEats) - AI generator for food dishes and more things...
-- 💡 Built several responsive web applications for diverse businesses.
+**Automatización e IA**
+n8n · Claude API · OpenAI API · RAG · Webhooks · Prompting
 
-## 🌍 Find Me Elsewhere
-- [LinkedIn](https://www.linkedin.com/in/pablo-merida)
+**Lenguajes**
+Python · TypeScript · JavaScript · PHP · SQL
 
-<!-- - [Personal Website](https://pablomerida.dev) -->
+**Frontend**
+React · React Native · Vite
 
-Thanks for stopping by! Feel free to explore my projects and leave a star if you find something interesting. ⭐
+**Backend & Bases de datos**
+FastAPI · Laravel · Supabase · PostgreSQL · MySQL
+
+**Infraestructura**
+Linux · Proxmox · Netlify · Git · AWS
+
+---
+
+## Proyectos destacados
+
+### Sistema de Automatización con IA (Alfred)
+Arquitectura multi-agente construida con Claude Code. Integración con Google Sheets, Google Tasks, Gmail, Obsidian, 
+Notion y Telegram. Flujos de procesamiento de datos, agentes especializados por dominio
+y memoria persistente. Diseñado para operar sin intervención manual.
+
+### [Estudiante Élite](https://github.com/pmerida08)
+Sistema de tutoría con IA para estudiantes de derecho. Workflows en n8n con memoria de
+sesión, RAG, transcripción de audio con OpenAI Whisper y pedagogía estructurada (método
+Feynman). Stack: React 19 + TypeScript, Supabase, Netlify CI/CD.
+
+### [MyHandStats](https://github.com/pmerida08)
+Aplicación web para registro y análisis de estadísticas de balonmano en tiempo real.
+Backend en Python con FastAPI, PostgreSQL gestionado en Supabase, frontend en React.
+
+### Generador de Recetas con IA
+Herramienta que integra un modelo de IA para generar recetas, planificar comidas
+semanales y crear listas de la compra automáticamente.
+
+---
+
+## Formación
+
+- **Máster en IA Generativa e Innovación** — Evolve Academy (2025 - Actualidad)
+- **Ciclo Superior en Desarrollo de Aplicaciones Web** — IES Gran Capitán (2021 - 2025)
+- **Inglés B2** — Cambridge (2025)
+
+---
+
+Abierto a colaboraciones y oportunidades profesionales.
