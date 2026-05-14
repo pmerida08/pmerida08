@@ -61,11 +61,6 @@
 ## Estadísticas
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pmerida08&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pmerida08&layout=compact&langs_count=7&theme=tokyonight"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pmerida08&theme=tokyonight"/>
 </p>
 
@@ -74,7 +69,7 @@
 ## Proyectos destacados
 
 ### Sistema de Automatización con IA (Alfred)
-Arquitectura multi-agente construida con  Claude API. Integración con Google Sheets, Gmail, Obsidian, Google Tasks
+Arquitectura multi-agente construida con  Claude Code. Integración con Google Sheets, Gmail, Obsidian, Google Tasks
 Notion y Telegram. Flujos de procesamiento de datos, agentes especializados por dominio
 y memoria persistente. Opera sin intervención manual.
 
