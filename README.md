@@ -37,9 +37,14 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-**Frontend**
+**Frontend y móvil**
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
 **Backend & Bases de datos**
@@ -61,7 +66,7 @@
 ## Proyectos destacados
 
 ### Sistema de Automatización con IA (Alfred)
-Arquitectura multi-agente construida con  Claude Code. Integración con Google Sheets, Gmail, Obsidian, Google Tasks
+Arquitectura multi-agente construida con Claude Code. Integración con Google Sheets, Gmail, Obsidian, Google Tasks,
 Notion y Telegram. Flujos de procesamiento de datos, agentes especializados por dominio
 y memoria persistente. Opera sin intervención manual.
 
@@ -69,6 +74,24 @@ y memoria persistente. Opera sin intervención manual.
 Sistema de tutoría con IA para estudiantes de derecho. Workflows en n8n con memoria de
 sesión, RAG, transcripción de audio con OpenAI Whisper y pedagogía estructurada (método
 Feynman). Stack: React 19 + TypeScript, Supabase, Netlify CI/CD.
+
+### [LifeVault](https://github.com/pmerida08/lifevault)
+SaaS de bóveda personal de datos con IA: chatbot con RAG, búsqueda semántica con embeddings,
+OCR y clasificación automática de documentos. Versión web en React y móvil en React Native + Expo,
+con Supabase y n8n para la orquestación.
+
+### [Streakode](https://streakode.com)
+Una especie de «Duolingo para desarrolladores»: ejercicios de programación de un minuto al día en
+Java, Kotlin, Python, JavaScript/TypeScript, Angular, React y React Native, con rachas, ligas, grupos
+de amigos y un desafío diario. PWA en producción. Stack: Next.js + Tailwind, Supabase (Postgres, RLS,
+pg_cron) y Vercel.
+
+[![Streakode](https://streakode.com/badge/pablomerida.svg)](https://streakode.com)
+
+### [EventSquad](https://github.com/pmerida08/EventSquad)
+App móvil para descubrir eventos musicales, unirse a grupos y coordinarse: geolocalización, chat en
+tiempo real, notificaciones push y votación del punto de encuentro. React Native + Expo, Supabase
+Realtime e integración con la API de Ticketmaster.
 
 ### MyHandStats
 Aplicación web para registro y análisis de estadísticas de balonmano en tiempo real.
@@ -82,7 +105,7 @@ semanales y crear listas de la compra automáticamente.
 
 ## Formación
 
-- **Máster en IA Generativa e Innovación** — Evolve Academy (2025 - Actualidad)
+- **Máster en IA Generativa e Innovación** — Evolve Academy (2025 - 2026)
 - **Ciclo Superior en Desarrollo de Aplicaciones Web** — IES Gran Capitán (2021 - 2025)
 - **Inglés B2** — Cambridge (2025)
 
