@@ -58,14 +58,6 @@
 
 ---
 
-## Estadísticas
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pmerida08&theme=tokyonight"/>
-</p>
-
----
-
 ## Proyectos destacados
 
 ### Sistema de Automatización con IA (Alfred)
